@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_901761_wish_list_wish_item</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-15 15:02:18</sys_created_on>
+        <sys_id>c3c25df92f621110560d9dacf699b6c4</sys_id>
+        <sys_name>x_901761_wish_list_wish_item</sys_name>
+        <sys_package display_value="Wish List" source="x_901761_wish_list">ab31d1f52f221110560d9dacf699b66d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">ab31d1f52f221110560d9dacf699b66d</sys_scope>
+        <sys_update_name>sys_security_acl_c3c25df92f621110560d9dacf699b6c4</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
